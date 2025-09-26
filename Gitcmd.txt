@@ -8,3 +8,4 @@ git checkout - Switch branches
 git merge - Combine branches
 git push - Upload to remote
 git pull - Download from remote
+switched branch to commit
